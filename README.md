@@ -1,6 +1,9 @@
 
 ### react-native-ali-onepass
   此项目由[react-native-ali-onepass](https://github.com/he-yf/react-native-ali-onepass) fork 而来
+  
+#### Expo 说明
+需要用到expo development build 然后再找到ios 和安卓的文件夹，执行下方安装步骤 (https://docs.expo.dev/guides/local-app-development/)
 
 #### 安装
 
